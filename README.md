@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Anurag Rathore 
 - 🔭 I’m currently MCA student
 - 🌱 I’m currently learning for Data Analytics | Web Development
 
